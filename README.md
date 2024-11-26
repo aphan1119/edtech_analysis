@@ -27,6 +27,6 @@ This project focuses on analyzing the lead conversion process, identifying key t
 ## 📧 Contact 
 
 For questions or feedback, reach out to:  
-Anh Phan 
-aphan1119@gmail.com
+Anh Phan/n
+aphan1119@gmail.com/n
 https://www.linkedin.com/in/aphan1119/
