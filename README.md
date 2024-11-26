@@ -19,3 +19,14 @@ This project focuses on analyzing the lead conversion process, identifying key t
 ## 💻 Tool Used
 
 - PostgreSQL
+
+## 🤝 Contributing
+
+- Contributions are welcome! Please open an issue or submit a pull request for any feature enhancements, bug fixes, or additional insights.
+
+## 📧 Contact 
+
+For questions or feedback, reach out to:  
+Anh Phan 
+aphan1119@gmail.com
+https://www.linkedin.com/in/aphan1119/
